@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
  I'm a CompSci student aiming to become a Software Developer!!
- ##### 🔭 Currently learning Java, Spring Boot and Databases.
+ ##### 🔭 Currently learning Java,Python,HTML, SpringBoot and Databases.
  ##### 🌱 I also wish to learn Python and get into AI.
  ##### 👯 Hoping to create more projects and also collaborate with other people.
  ##### 🥅 Be competent enough in Java to get junior level jobs.
  ##### ⚡ Fun fact: Okae
 ![JJudge0 GitHub stats](https://github-readme-stats.vercel.app/api?username=JJudge0&show_icons=true&theme=dark)  <!--shows my stats/theme -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JJudge0&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) <!--Allows me to pin 6 or more projects to my profile-->
 
