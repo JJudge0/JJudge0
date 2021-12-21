@@ -22,7 +22,7 @@ USE THIS WEBSITE FOR GITHUB CARD TEMPLATES https://github.com/anuraghazra/github
  I'm a CompSci student aiming to become a Software Developer!!
 - 🔭 Working on a full stack website project which includes-
 - FrontEnd: HTML,CSS,JS 
-- BackEnd: Java, SpringBoot, Databases.
+- BackEnd: Java, SpringBoot, MYSQL Databases.
 - 🌱 Currently learning Java,Python,HTML,CSS,JS,SpringBoot and Databases. 🤣
 - 👯 I’m looking to collaborate with other software developers.
 - 🥅 2022 Goals: Hoping to develop more projects and contribute more to Open Source projects. 
