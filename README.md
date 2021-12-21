@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+USE THIS WEBSITE FOR GITHUB CARD TEMPLATES https://github.com/anuraghazra/github-readme-stats
+///////////////////////////////////////
+![JJudge0 GitHub stats](https://github-readme-stats.vercel.app/api?username=JJudge0&show_icons=true&theme=dark)  shows my stats/theme 
+///////////////////////////////////////
 -->
 
  I'm a CompSci student aiming to become a Software Developer!!
@@ -20,10 +24,15 @@ Here are some ideas to get you started:
  ##### 🌱 I also wish to learn Python and get into AI.
  ##### 👯 Hoping to create more projects and also collaborate with other people.
  ##### 🥅 Be competent enough in Java to get junior level jobs.
- ##### ⚡ Fun fact: Okae
-![JJudge0 GitHub stats](https://github-readme-stats.vercel.app/api?username=JJudge0&show_icons=true&theme=dark)  <!--shows my stats/theme -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJudge0&theme=dark)](https://github.com/JJudge0/github-readme-stats)
- <!--Allows me to pin 6 or more projects to my profile-->
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+ <img align="left" alt="JJudge0 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JJudge0&show_icons=true&hide_border=false&theme=tokyonight" />  <!--shows my stats/theme --> 
+</details>
+
+ 
+
+
 
