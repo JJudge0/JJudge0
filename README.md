@@ -22,6 +22,8 @@ Here are some ideas to get you started:
  ##### 🥅 Be competent enough in Java to get junior level jobs.
  ##### ⚡ Fun fact: Okae
 ![JJudge0 GitHub stats](https://github-readme-stats.vercel.app/api?username=JJudge0&show_icons=true&theme=dark)  <!--shows my stats/theme -->
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJudge0&theme=dark)](https://github.com/JJudge0/github-readme-stats)
  <!--Allows me to pin 6 or more projects to my profile-->
 
