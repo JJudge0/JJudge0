@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am JJ 👋
 
 <!--
 **JJudge0/JJudge0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ I'm a CompSci student aiming to become a Software Developer!!
+ ##### 🔭 Currently learning Java, Spring Boot and Databases.
+ ##### 🌱 I also wish to learn Python and get into AI.
+ ##### 👯 Hoping to create more projects and also collaborate with other people.
+ ##### 🥅 Be competent enough in Java to get junior level jobs.
+ ##### ⚡ Fun fact: Okae
+![JJudge0 GitHub stats](https://github-readme-stats.vercel.app/api?username=JJudge0&show_icons=true&theme=radical)
