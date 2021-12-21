@@ -17,6 +17,8 @@ USE THIS WEBSITE FOR GITHUB CARD TEMPLATES https://github.com/anuraghazra/github
 ///////////////////////////////////////
 ![JJudge0 GitHub stats](https://github-readme-stats.vercel.app/api?username=JJudge0&show_icons=true&theme=dark)  shows my stats/theme 
 ///////////////////////////////////////
+THEMES USED:
+tokyonight
 -->
 
  I'm a CompSci student aiming to become a Full Stack Software Developer!!
@@ -50,7 +52,7 @@ USE THIS WEBSITE FOR GITHUB CARD TEMPLATES https://github.com/anuraghazra/github
 
 ---
 ### My Github:
-[![JJudge GitHub stats](https://github-readme-stats.vercel.app/api?username=JJudge0&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![JJudge GitHub stats](https://github-readme-stats.vercel.app/api?username=JJudge0&hide_border=false&theme=nightowl)](https://github.com/JJudge0/github-readme-stats)
 <!--
 <details>
   <summary>:zap: GitHub Stats</summary>
