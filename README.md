@@ -21,4 +21,5 @@ Here are some ideas to get you started:
  ##### 👯 Hoping to create more projects and also collaborate with other people.
  ##### 🥅 Be competent enough in Java to get junior level jobs.
  ##### ⚡ Fun fact: Okae
-![JJudge0 GitHub stats](https://github-readme-stats.vercel.app/api?username=JJudge0&show_icons=true&theme=radical)
+![JJudge0 GitHub stats](https://github-readme-stats.vercel.app/api?username=JJudge0&show_icons=true&theme=dark)  <!--shows my stats/theme -->
+
