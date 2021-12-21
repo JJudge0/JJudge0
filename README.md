@@ -20,12 +20,13 @@ USE THIS WEBSITE FOR GITHUB CARD TEMPLATES https://github.com/anuraghazra/github
 -->
 
  I'm a CompSci student aiming to become a Software Developer!!
- ##### 🔭 Currently learning Java,Python,HTML, SpringBoot and Databases.
- ##### 🌱 I also wish to learn Python and get into AI.
- ##### 👯 Hoping to create more projects and also collaborate with other people.
- ##### 🥅 Be competent enough in Java to get junior level jobs.
-
-
+- 🔭 Working on a full stack website project which includes-
+- FrontEnd: HTML,CSS,JS 
+- BackEnd: Java, SpringBoot, Databases.
+- 🌱 Currently learning Java,Python,HTML,CSS,JS,SpringBoot and Databases. 🤣
+- 👯 I’m looking to collaborate with other software developers.
+- 🥅 2022 Goals: Hoping to develop more projects and contribute more to Open Source projects. 
+- ⚡ Fun fact: I love to game and very involved/interested in the crypto space.
 
 <details>
   <summary>:zap: GitHub Stats</summary>
