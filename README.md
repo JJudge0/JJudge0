@@ -25,7 +25,7 @@ tokyonight
 - 🔭 Currently working on a full stack website project which includes-
 - FrontEnd: HTML,CSS,JS,React
 - BackEnd: Java, SpringBoot, MYSQL Databases.
-- 🌱 Currently learning Java,Python,HTML,CSS,JS,React,Solidity,SpringBoot and Databases. 🤣
+- 🌱 Currently learning and improving on  Java,Python,HTML,CSS,JS,React,Solidity,SpringBoot and Databases. 🤣
 - 👯 I’m looking to collaborate with other software developers.
 - 🥅 2022 Goals: Hoping to develop more projects and contribute more to Open Source projects. 
 - ⚡ Fun fact: I love to game and very involved/interested in the crypto space.
