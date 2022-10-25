@@ -52,7 +52,7 @@ tokyonight
 
 ---
 ### My Github:
-[![JJudge GitHub stats](https://github-readme-stats.vercel.app/api?username=Foxi-GB&hide_border=false&theme=nightowl)](https://github.com/JJudge0/github-readme-stats)
+[![JJudge GitHub stats](https://github-readme-stats.vercel.app/api?username=JJudge0&hide_border=false&theme=nightowl)](https://github.com/JJudge0/github-readme-stats)
 <!--
 <details>
   <summary>:zap: GitHub Stats</summary>
