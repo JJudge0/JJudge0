@@ -23,8 +23,10 @@ tokyonight
 
  I'm a CompSci student aiming to become a Full Stack Software Developer!!
 - 🔭 Currently working on a full stack website project which includes-
-- FrontEnd: HTML,CSS,JS,React
-- BackEnd: Java, SpringBoot, MYSQL Databases.
+- FrontEnd: HTML,CSS,JS,React, Typescript
+- BackEnd: Java, SpringBoot, MYSQL Databases, django.
+- Blockchain: Solidity, Ether Hardhat.
+- Tokens: ERC20 tokens.
 - 🌱 Currently learning and improving on  Java,Python,HTML,CSS,JS,React,Solidity,SpringBoot and Databases. 🤣
 - 👯 I’m looking to collaborate with other software developers.
 - 🥅 2022 Goals: Hoping to develop more projects and contribute more to Open Source projects. 
