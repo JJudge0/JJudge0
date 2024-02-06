@@ -28,7 +28,6 @@ tokyonight
 - Blockchain: Solidity, Ether Hardhat.
 - Tokens: ERC20 tokens.
 - 🌱 Currently learning and improving on  Java,Python,HTML,CSS,JS,React,Solidity,SpringBoot and Databases. 🤣
-- 👯 I’m looking to collaborate with other software developers.
 - 🥅 2024 Goals: Hoping to develop more projects. 
 - ⚡ Fun fact: I love to game and very involved/interested in the crypto space.
 ---
