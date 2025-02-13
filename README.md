@@ -21,8 +21,8 @@ THEMES USED:
 tokyonight
 -->
 
- I'm a CompSci student aiming to become a Full Stack Software Developer!!
-- 🔭 Currently working on a full stack website project which includes-
+ I'm a freelance Full Stack Software Developer!!
+- 🔭 Currently working on various projects which includes-
 - FrontEnd: HTML,CSS,JS,React, Typescript
 - BackEnd: Java, SpringBoot, MYSQL Databases, django.
 - Blockchain: Solidity, Ether Hardhat.
